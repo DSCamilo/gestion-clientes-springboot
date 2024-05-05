@@ -1,0 +1,7 @@
+com\customers\gestionclientes\services\CustomerService2.class
+com\customers\gestionclientes\entities\Customer$CustomerBuilder.class
+com\customers\gestionclientes\GestionclientesApplication.class
+com\customers\gestionclientes\controllers\CustomerController.class
+com\customers\gestionclientes\entities\Customer.class
+com\customers\gestionclientes\services\CustomerService.class
+com\customers\gestionclientes\ServletInitializer.class
